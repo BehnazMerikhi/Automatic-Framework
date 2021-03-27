@@ -3,7 +3,7 @@ Revision 1.0.
 
 It is an ongoing research and We only share this code for research use.
 
-##About ##
+## About ##
 
 This code represents the process of evolving clusters and migration of data points to other groups during different stages under a proposed framework called "Automatic Data Clustering Framework Using Nature-Inspired Binary Optimization Algorithms". The proposed method is recently submitted to the IEEE Access Journal and it is still under the review process.
 
