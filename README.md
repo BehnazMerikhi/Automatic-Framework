@@ -15,7 +15,7 @@ We keep the repository updated during the next stages, and we may publicly relea
 ## About 
 This experiment shows the performance of the proposed framework on a small scale by using the BBA optimizer module with 100 agents and 200 iterations. 
 
-Fig (3-b) shows the result of initial clustering, where an initial cluster number is assigned to each data point. Fig (3-c) and (3-d) show the result of clustering after two levels of re-clustering. Although the clusters are distinguishable in this stage, the smallest cluster and the largest cluster still have a considerable size difference. During Stages (e) to (h), the process of merging and modifying the small clusters is performed, and the result is evaluated according to output. As can be seen, the proposed framework provides a sufficient number of compact and well-separated clusters with relatively close values for maximum distortion
+Fig (3-b) shows the result of initial clustering, where an initial cluster number is assigned to each data point. Fig (3-c) and (3-d) show the result of clustering after two levels of re-clustering. Although the clusters are distinguishable in this stage, the smallest cluster and the largest cluster still have a considerable size difference. During Stages (e) to (h), the process of merging and modifying the small clusters is performed, and the result is evaluated according to output. As can be seen, the proposed framework provides a sufficient number of compact and well-separated clusters with relatively close values for maximum distortion.
 
 ![image](https://user-images.githubusercontent.com/12595842/112735401-12ae3980-8f22-11eb-8bcc-0c339b6c70fb.png)
 
@@ -27,6 +27,12 @@ This code should work on Windows or Linux, with MATLAB.
 3. You can see the final result after a few iterations. 
 
 ## Acknowledgment
-Please use the following to acknowledge use of this framework in your publications:
+Please use the followings to acknowledge use of this framework in your publications:
+https://github.com/BehnazMerikhi/Automatic-Framework
+
+S. Mirjalili, S. M. Mirjalili, and X.-S. Yang, “Binary bat algorithm,”
+Neural Comput & Applic, vol. 25, no. 3–4, pp. 663–681, Sep. 2014,
+doi: 10.1007/s00521-013-1525-5.
+
 
 Feel free to contact the corresponding author in case you have further questions.
