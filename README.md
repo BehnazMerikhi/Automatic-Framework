@@ -14,7 +14,7 @@ We keep the repository updated during the next stages, and we may publicly relea
 
 This code should work on Windows or Linux, with MATLAB.
 1. Clone the Git repository from GitHub
-2. Run `main` on the command line
+2. Run `main.m` file in the root folder.
 3. You can see the final result after a few iterations. 
 ## 
 
