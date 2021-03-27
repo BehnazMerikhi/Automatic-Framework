@@ -29,9 +29,10 @@ This code should work on Windows or Linux, with MATLAB.
 ## Acknowledgment
 Please use the followings to acknowledge use of this framework in your publications:
 
-https://github.com/BehnazMerikhi/Automatic-Framework
++ https://github.com/BehnazMerikhi/Automatic-Framework
+B. Merikhi, M. R. Soleymany, "Automatic Data Clustering Framework Using Nature-Inspired Binary Optimization Algorithms"
 
-S. Mirjalili, S. M. Mirjalili, and X.-S. Yang, “Binary bat algorithm,”
++ S. Mirjalili, S. M. Mirjalili, and X.-S. Yang, “Binary bat algorithm,”
 Neural Comput & Applic, vol. 25, no. 3–4, pp. 663–681, Sep. 2014,
 doi: 10.1007/s00521-013-1525-5.
 
