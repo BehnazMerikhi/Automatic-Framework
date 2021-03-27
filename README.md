@@ -1,5 +1,5 @@
 # Automatic Data Clustering Framework 
-This code is shared for the research use purposes only. 
+This code is shared for the research purposes only. 
 
 Revision 1.0. 
 
