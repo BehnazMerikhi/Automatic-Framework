@@ -1,16 +1,16 @@
-### Automatic Data Clustering Framework ###
+# Automatic Data Clustering Framework #
 Revision 1.0. 
 
 It is an ongoing research and We only share this code for research use.
 
-### About ###
+##About ##
 
 This code represents the process of evolving clusters and migration of data points to other groups during different stages under a proposed framework called "Automatic Data Clustering Framework Using Nature-Inspired Binary Optimization Algorithms". The proposed method is recently submitted to the IEEE Access Journal and it is still under the review process.
 
 This framework is a part of an ongoing reserach in automatic data clustering for correlated content and another related reserach in the area of the cache-aided networks.
 We keep the repository updated during the next stages, and we may publicly release the rest of the code after finishing the next research for the purpose of reproducibility. Feel free to contact the corresponding author in case you have further questions.
 
-# Usage
+## Usage
 
 This code should work on Windows or Linux, with MATLAB.
 1. Clone the Git repository from GitHub
