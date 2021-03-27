@@ -31,7 +31,7 @@ Please use the followings to acknowledge use of this framework in your publicati
 
 + https://github.com/BehnazMerikhi/Automatic-Framework
 
-B. Merikhi, M. R. Soleymany, "Automatic Data Clustering Framework Using Nature-Inspired Binary Optimization Algorithms"
+  B. Merikhi, M. R. Soleymany, "Automatic Data Clustering Framework Using Nature-Inspired Binary Optimization Algorithms"
 
 + S. Mirjalili, S. M. Mirjalili, and X.-S. Yang, “Binary bat algorithm,”
 Neural Comput & Applic, vol. 25, no. 3–4, pp. 663–681, Sep. 2014,
